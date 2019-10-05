@@ -1,0 +1,11 @@
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\bin\Release\netcoreapp2.2\Tickets.Entities.deps.json
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\bin\Release\netcoreapp2.2\Tickets.Entities.runtimeconfig.json
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\bin\Release\netcoreapp2.2\Tickets.Entities.runtimeconfig.dev.json
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\bin\Release\netcoreapp2.2\Tickets.Entities.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\bin\Release\netcoreapp2.2\Tickets.Entities.pdb
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\obj\Release\netcoreapp2.2\Tickets.Entities.csprojAssemblyReference.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\obj\Release\netcoreapp2.2\Tickets.Entities.csproj.CoreCompileInputs.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\obj\Release\netcoreapp2.2\Tickets.Entities.AssemblyInfoInputs.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\obj\Release\netcoreapp2.2\Tickets.Entities.AssemblyInfo.cs
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\obj\Release\netcoreapp2.2\Tickets.Entities.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Entities\obj\Release\netcoreapp2.2\Tickets.Entities.pdb

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tickets.Bll\Tickets.Bll.csproj" />
+    <ProjectReference Include="..\Tickets.Commons\Tickets.Commons.csproj" />
+    <ProjectReference Include="..\Tickets.Entities\Tickets.Entities.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="wwwroot\NewFolder\" />
+  </ItemGroup>
+
+</Project>

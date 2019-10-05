@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="content">
+    <div class="panel panel-flat">
+        <div class="panel-heading">
+            <h5 class="panel-title">Events search <a class="heading-elements-toggle"><i class="icon-more"></i></a></h5>
+            <div class="heading-elements">
+                <ul class="icons-list">
+                    <li><a data-action="collapse"></a></li>
+                    <li><a data-action="close"></a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="panel-body">
+            <div class="input-group">
+                <input type="text" class="form-control input-xlg" data-intro="Search for artists, sports, packages, plays and so on..." 
+                       placeholder="What are you looking for?" id="idTxtSearch">
+                <a class="btn btn-primary input-group-addon bg-blue" id="idBtnSearch"> Search</a>
+                <a class="btn btn-primary input-group-addon bg-pink" id="idBtnClear"> Clear</a>
+            </div>
+            <div class="row search-option-buttons">
+                    <div class="col-sm-6">
+                    </div>
+
+                    <div class="col-sm-6 text-right">
+
+                    </div>
+                </div>
+        </div>
+    </div>
+    <ul class="media-list content-group">
+        <div id="idDivEvents" data-intro="<strong>Results</strong> <br/> The results must be appear in the list."></div>
+        <div class="text-center content-group-lg pt-20" id="paginateBox">
+            <ul class="pagination pagination-sm" id="pagination"></ul>
+            <ul class="pagination pagination-sm" id="paginationEvents" style="display: none;"></ul>
+        </div>
+    </ul>
+    
+
+</div>
+
+
+<script>
+    function ShowIntro() {
+        console.log('Start Intro...');
+        introJs()
+            .setOption('tooltipPosition', 'top')
+            .setOption('positionPrecedence', ['top', 'bottom', 'right', 'left'])
+            .start();
+    }
+</script>

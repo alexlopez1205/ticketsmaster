@@ -1,0 +1,9 @@
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Models\bin\Debug\netcoreapp2.2\Tickets.Models.deps.json
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Models\bin\Debug\netcoreapp2.2\Tickets.Models.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Models\bin\Debug\netcoreapp2.2\Tickets.Models.pdb
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Models\obj\Debug\netcoreapp2.2\Tickets.Models.csprojAssemblyReference.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Models\obj\Debug\netcoreapp2.2\Tickets.Models.csproj.CoreCompileInputs.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Models\obj\Debug\netcoreapp2.2\Tickets.Models.AssemblyInfoInputs.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Models\obj\Debug\netcoreapp2.2\Tickets.Models.AssemblyInfo.cs
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Models\obj\Debug\netcoreapp2.2\Tickets.Models.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Models\obj\Debug\netcoreapp2.2\Tickets.Models.pdb

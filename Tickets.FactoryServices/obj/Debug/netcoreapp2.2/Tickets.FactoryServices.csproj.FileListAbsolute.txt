@@ -1,0 +1,9 @@
+C:\Users\al8529\source\repos\TicketsProject\Tickets.FactoryServices\bin\Debug\netcoreapp2.2\Tickets.FactoryServices.deps.json
+C:\Users\al8529\source\repos\TicketsProject\Tickets.FactoryServices\bin\Debug\netcoreapp2.2\Tickets.FactoryServices.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.FactoryServices\bin\Debug\netcoreapp2.2\Tickets.FactoryServices.pdb
+C:\Users\al8529\source\repos\TicketsProject\Tickets.FactoryServices\obj\Debug\netcoreapp2.2\Tickets.FactoryServices.csprojAssemblyReference.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.FactoryServices\obj\Debug\netcoreapp2.2\Tickets.FactoryServices.csproj.CoreCompileInputs.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.FactoryServices\obj\Debug\netcoreapp2.2\Tickets.FactoryServices.AssemblyInfoInputs.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.FactoryServices\obj\Debug\netcoreapp2.2\Tickets.FactoryServices.AssemblyInfo.cs
+C:\Users\al8529\source\repos\TicketsProject\Tickets.FactoryServices\obj\Debug\netcoreapp2.2\Tickets.FactoryServices.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.FactoryServices\obj\Debug\netcoreapp2.2\Tickets.FactoryServices.pdb

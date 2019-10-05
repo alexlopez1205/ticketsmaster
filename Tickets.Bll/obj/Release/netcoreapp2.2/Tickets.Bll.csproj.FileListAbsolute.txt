@@ -1,0 +1,14 @@
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\bin\Release\netcoreapp2.2\Tickets.Bll.deps.json
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\bin\Release\netcoreapp2.2\Tickets.Bll.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\bin\Release\netcoreapp2.2\Tickets.Bll.pdb
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\bin\Release\netcoreapp2.2\Tickets.Commons.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\bin\Release\netcoreapp2.2\Tickets.Models.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\bin\Release\netcoreapp2.2\Tickets.Commons.pdb
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\bin\Release\netcoreapp2.2\Tickets.Models.pdb
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\obj\Release\netcoreapp2.2\Tickets.Bll.csprojAssemblyReference.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\obj\Release\netcoreapp2.2\Tickets.Bll.csproj.CoreCompileInputs.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\obj\Release\netcoreapp2.2\Tickets.Bll.AssemblyInfoInputs.cache
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\obj\Release\netcoreapp2.2\Tickets.Bll.AssemblyInfo.cs
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\obj\Release\netcoreapp2.2\Tickets.Bll.csproj.CopyComplete
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\obj\Release\netcoreapp2.2\Tickets.Bll.dll
+C:\Users\al8529\source\repos\TicketsProject\Tickets.Bll\obj\Release\netcoreapp2.2\Tickets.Bll.pdb

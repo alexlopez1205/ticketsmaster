@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TicketMaster</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
+    <link href="~/assets/css/icons/icomoon/styles.css" rel="stylesheet" />
+    <link href="~/assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/assets/css/core.css" rel="stylesheet" />
+    <link href="~/assets/css/components.css" rel="stylesheet" />
+    <link href="~/assets/css/colors.css" rel="stylesheet" />
+
+    <script type="text/javascript" src="~/assets/js/plugins/loaders/pace.min.js"></script>
+    <script type="text/javascript" src="~/assets/js/core/libraries/jquery.min.js"></script>
+    <script type="text/javascript" src="~/assets/js/core/libraries/bootstrap.min.js"></script>
+    
+
+    <script type="text/javascript" src="~/assets/js/plugins/forms/styling/uniform.min.js"></script>
+    <link href="~/css/IntroJS.css" rel="stylesheet" />
+    <script type="text/javascript" src="~/assets/js/core/app.js"></script>
+    <script type="text/javascript" src="~/assets/js/pages/job_list.js"></script>
+
+
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="sidebar-xs has-detached-left">
+    <div class="navbar navbar-inverse">
+        <div class="navbar-header">
+            <ul class="nav navbar-nav pull-right visible-xs-block"></ul>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-mobile">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a class="sidebar-control sidebar-main-toggle hidden-xs">
+                        <i class="icon-paragraph-justify3"></i>
+                    </a>
+                </li>
+            </ul>
+            <p class="navbar-text">
+                <span class="label bg-success">Online</span>
+            </p>
+            <div class="navbar-right">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown dropdown-user">
+                        <a class="dropdown-toggle" data-toggle="dropdown">
+                            <img src="assets/images/placeholder.jpg" alt="">
+                            <span>Sign in</span>
+                            <i class="caret"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="page-container">
+        <div class="page-content">
+            <div class="sidebar sidebar-main">
+                <div class="sidebar-content">
+                    <div class="sidebar-category sidebar-category-visible">
+                        <div class="category-content no-padding">
+                            <ul class="navigation navigation-main navigation-accordion">
+                                <li class="navigation-header"><span>Main</span> <i class="icon-menu" title="Main pages"></i></li>
+                                <li><a href="#" class="ClsBtnHome"><i class="icon-home4"></i> <span>Home</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+            </div>
+            <div class="content-wrapper">
+                <div class="page-header page-header-default">
+                    <div class="page-header-content">
+                        <div class="page-title">
+                            <h4><span class="text-semibold">Events Search</span></h4>
+                        </div>
+
+                        <div class="heading-elements">
+                            <div class="heading-btn-group">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="breadcrumb-line">
+                        <ul class="breadcrumb">
+                            <li><a href="#" class="ClsBtnHome"><i class="icon-home2 position-left"></i> Home</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="content">
+                    <div class="container-detached">
+                        @RenderBody()
+                    </div>
+                    <div class="footer text-muted">
+                        &copy; 2019. <a href="#">TicketMaster</a> by Alejandro López
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/IntroJS.js"></script>
+
+    <script>
+    window.url += "@Href("~/")";
+    </script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/AJAX.js"></script>
+    <script src="~/js/jquery.twbsPagination.js"></script>
+    <script>
+        $(".ClsBtnHome").on("click", function () {
+            window.location.reload();
+        });
+    </script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
